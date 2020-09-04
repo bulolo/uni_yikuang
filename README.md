@@ -3,20 +3,20 @@
 《疫况》，超3.6千万用户。疫情期间起到了全国防范作用，现将此开源，以供大家公益学习参考。
 
 
-#### 作者
+### 作者
 [@俊瑶先生](https://weibo.com/232246784)   
-#### 技术栈
+### 技术栈
 
 > 框架：uniapp
 
-#### 线上预览(微信、支付宝、QQ)
+### 线上预览(微信、支付宝、QQ)
 <div>
 <img src="https://files.webhunt.cn/wechat.jpg" width="200" height="auto"/>
 <img src="https://files.webhunt.cn/ali.jpg" width="200" height="auto"/>
 <img src="https://files.webhunt.cn/qq.png" width="200" height="auto"/>
 </div>
 
-#### 截图预览
+### 截图预览
 <div>
 <img src="https://files.webhunt.cn/1.jpeg" width="200" height="auto"/>
 <img src="https://files.webhunt.cn/5.jpeg" width="200" height="auto"/>
@@ -25,7 +25,7 @@
 
 </div>
 
-#### 媒体链接：
+### 媒体链接：
 
 少数派：[我做了一个「疫情地图」小程序，但我希望大家「明天」就不需要它](https://mp.weixin.qq.com/s/FpTfD1uHYcaKGuggUGP0aA)   
 微信派：[月子中心里诞生出的疫情小程序，7天从0到1000万](https://mp.weixin.qq.com/s/t08bCstJzMOVgy2Gse3P6w)   
@@ -35,10 +35,10 @@
 雷锋网：[这个小程序可以查你家周围的疫情爆发点](https://mp.weixin.qq.com/s/nCP8VcsTToN7Dn-Mms8ETw)   
 南方都市报 • 南都广州:[它告诉你疫情有多远！这个4小时写出来的小程序为三千多万人预警](https://m.mp.oeeee.com/a/BAAFRD000020200225270122.html?layer=4&share=chat&isndappinstalled=0)   
 
-#### 志愿者 （如有遗漏，告知我更新）
-##### 重点技术支持：   
+### 志愿者 （如有遗漏，告知我更新）
+#### 重点技术支持：   
 [@少数派](https://sspai.com/)   
-##### 地区城市志愿者：   
+#### 地区城市志愿者(不分先后)：   
 倾尽时光初遇见_香港   
 阿Ki   
 我不是糨糊🇨🇳——重庆万州.成都   
