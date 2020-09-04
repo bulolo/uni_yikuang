@@ -39,4 +39,4 @@
 #### 重点技术支持：   
 [@少数派](https://sspai.com/)   
 #### 地区志愿者(不分先后)：   
-倾尽时光初遇见_香港、阿Ki、我不是糨糊🇨🇳——重庆万州.成都、纪步靑、钟桦服、阿黎、🚀-佛山、Ben、靖思、张韦楠-济南泰安、Mr.球、酒姑苏-淮安、索拉否、se7encifer、山吅厂敢、彭宇轩-湖北黄石、黎闹闹、讲者-韶关、阿振、jijiali、思考问题的熊、淘子-重庆、CC-济宁、Ivan、yztdgs、t_VIPer、kylinzi、大力他爹、Pray、南星、陈逸添、linxinqi_、硅基生命体、wu987054063、余航、风行一刻、Max吳、四儿、九宫格、neesar、cd028dm、九分、csdelphi、Chisakaow、Neesar、彭宇轩-湖北黄石、lzh728510、Ne_YO_cat、bestbacky、LQQ1881366313382、余航、Lukejone、18617356501、xuwenlin、lukejone、兔九（CX1625544326）、hugh-广东惠州、摄影师灬君狄、gonganchenyan、豆浆小姐、Xsu、yoyo3303、787089788（李十九）、fakegeek、VizardMask、xukai1539、fanao2013、孙其昌 Henry、lairenlaiwang、
+倾尽时光初遇见_香港、阿Ki、我不是糨糊🇨🇳——重庆万州.成都、纪步靑、钟桦服、阿黎、🚀-佛山、Ben、靖思、张韦楠-济南泰安、Mr.球、酒姑苏-淮安、索拉否、se7encifer、山吅厂敢、彭宇轩-湖北黄石、黎闹闹、讲者-韶关、阿振、jijiali、思考问题的熊、淘子-重庆、CC-济宁、Ivan、yztdgs、t_VIPer、kylinzi、大力他爹、Pray、南星、陈逸添、linxinqi_、硅基生命体、wu987054063、余航、风行一刻、Max吳、四儿、九宫格、neesar、cd028dm、九分、csdelphi、Chisakaow、Neesar、彭宇轩-湖北黄石、lzh728510、Ne_YO_cat、bestbacky、LQQ1881366313382、余航、Lukejone、18617356501、xuwenlin、lukejone、兔九（CX1625544326）、hugh-广东惠州、摄影师灬君狄、gonganchenyan、豆浆小姐、Xsu、yoyo3303、787089788（李十九）、fakegeek、VizardMask、xukai1539、fanao2013、孙其昌 Henry、lairenlaiwang 等等
