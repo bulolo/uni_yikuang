@@ -3,12 +3,18 @@
 
 # 预览
 <div>
-<img src="https://files.webhunt.cn/wechat.jpg" width="100" height="auto"/>
-微信小程序
-<img src="https://files.webhunt.cn/ali.jpg" width="100" height="auto"/>
-支付宝小程序
-<img src="https://files.webhunt.cn/qq.png" width="100" height="auto"/>
-QQ小程序
+    <div>
+        <img src="https://files.webhunt.cn/wechat.jpg" width="100" height="auto" />
+        微信小程序
+    </div>
+    <div>
+        <img src="https://files.webhunt.cn/ali.jpg" width="100" height="auto" />
+        支付宝小程序
+    </div>
+    <div>
+        <img src="https://files.webhunt.cn/qq.png" width="100" height="auto" />
+        QQ小程序
+    </div>
 </div>
 
 # 媒体链接：
