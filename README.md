@@ -4,7 +4,7 @@
 
 
 #### 作者
-[@俊瑶先生](https://weibo.com/232246784)   
+[@俊瑶先生](https://weibo.com/232246784)   [少数派](https://sspai.com/)   
 #### 技术栈
 
 > 框架：uniapp
@@ -36,4 +36,8 @@
 南方都市报 • 南都广州:[它告诉你疫情有多远！这个4小时写出来的小程序为三千多万人预警](https://m.mp.oeeee.com/a/BAAFRD000020200225270122.html?layer=4&share=chat&isndappinstalled=0)   
 
 #### 数据志愿者
-即将更新
+
+
+
+
+有遗漏麻烦告示我更新。
