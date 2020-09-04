@@ -16,9 +16,9 @@
 
 ### 预览
 <div>
-<img src="https://files.webhunt.cn/1.png" width="200" height="auto"/>
-<img src="https://files.webhunt.cn/2.jpg" width="200" height="auto"/>
-<img src="https://files.webhunt.cn/3.png" width="200" height="auto"/>
+<img src="https://files.webhunt.cn/1.jpeg" width="200" height="auto"/>
+<img src="https://files.webhunt.cn/2.jpeg" width="200" height="auto"/>
+<img src="https://files.webhunt.cn/3.jpeg" width="200" height="auto"/>
 <img src="https://files.webhunt.cn/4.jpeg" width="200" height="auto"/>
 <img src="https://files.webhunt.cn/5.jpeg" width="200" height="auto"/>
 </div>
