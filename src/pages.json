@@ -1,0 +1,153 @@
+{
+	"pages": [
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "我周边的疫情"
+			}
+		},
+		{
+			"path": "pages/me/me",
+			"style": {
+				"navigationBarTitleText": "我的"
+			}
+		},
+		{
+			"path": "pages/me/feedback",
+			"style": {
+				"navigationBarTitleText": "反馈"
+			}
+		},
+		{
+			"path": "pages/me/feedSuccess",
+			"style": {
+				"navigationBarTitleText": "反馈"
+			}
+		},
+		{
+			"path": "pages/search/search",
+			"style": {
+				"navigationBarTitleText": "搜索全国疫情"
+			}
+		},
+		{
+			"path": "pages/me/about",
+			"style": {
+				"navigationBarTitleText": "查询"
+			}
+		},
+		{
+			"path": "pages/webview",
+			"style": {
+				"navigationBarTitleText": ""
+			}
+		},
+		{
+			"path": "pages/index/map",
+			"style": {
+				"navigationBarTitleText": "疫情地图"
+			}
+		},
+		{
+			"path": "pages/search/test",
+			"style": {
+				"navigationBarTitleText": "test"
+			}
+		},
+		{
+			"path": "pages/me/support",
+			"style": {
+				"navigationBarTitleText": "赞助支持"
+			}
+		},
+		{
+			"path": "pages/trends/index",
+			"style": {
+				"navigationBarTitleText": "全国疫情趋势"
+			}
+		},
+		{
+			"path": "pages/guide/index",
+			"style": {
+				"navigationBarTitleText": "疫情应对指南"
+			}
+		},
+		{
+			"path": "pages/article/index",
+			"style": {
+				"navigationBarTitleText": "新闻"
+			}
+		},
+		{
+			"path": "pages/article/detail",
+			"style": {
+				"navigationBarTitleText": "新闻详情"
+			}
+		}
+	],
+	"tabBar": {
+		"color": "#888888",
+		"selectedColor": "#4E8CEE",
+		"borderStyle": "white",
+		"backgroundColor": "#ffffff",
+		"list": [
+			{
+				"pagePath": "pages/index/index",
+				"iconPath": "static/near.png",
+				"selectedIconPath": "static/nearActive.png",
+				"text": "附近"
+			},
+			{
+				"pagePath": "pages/search/search",
+				"iconPath": "static/index.png",
+				"selectedIconPath": "static/indexActive.png",
+				"text": "查询"
+			},
+			{
+				"pagePath": "pages/guide/index",
+				"iconPath": "static/article.png",
+				"selectedIconPath": "static/articleActive.png",
+				"text": "指南"
+			},
+			{
+				"pagePath": "pages/trends/index",
+				"iconPath": "static/trends.png",
+				"selectedIconPath": "static/trendsActive.png",
+				"text": "趋势"
+			},
+			{
+				"pagePath": "pages/me/me",
+				"iconPath": "static/my.png",
+				"selectedIconPath": "static/myActive.png",
+				"text": "帮助"
+			}
+			// {
+			// 	"pagePath": "pages/article/index",
+			// 	"iconPath": "static/my.png",
+			// 	"selectedIconPath": "static/myActive.png",
+			// 	"text": "新闻"
+			// }
+		]
+	}
+	/* eslint-disable no-alert, no-console */
+	// #ifdef MP-ALIPAY
+	,"globalStyle": {
+		"navigationBarTextStyle": "white",
+		"navigationBarTitleText": "疫况",
+		"navigationBarBackgroundColor": "#4E8CEE",
+		"backgroundColor": "#ffffff",
+		"navigationStyle": "default"
+	}
+	// #endif
+	// #ifndef MP-ALIPAY
+	,"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "疫况",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8",
+		"navigationStyle": "default"
+	}
+	// #endif
+	/* eslint-disable no-alert, no-console */
+}
+/* eslint-disable */
