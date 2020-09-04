@@ -3,20 +3,20 @@
 《疫况》，超3.6千万用户。疫情期间起到了全国防范作用，现将此开源，以供大家学习参考。
 
 
-### 作者
+#### 作者
 [@俊瑶先生](https://weibo.com/232246784)   
-### 技术战
+#### 技术战
 
 > 框架：uniapp
 
-### 二维码
+#### 二维码(微信、支付宝、QQ)
 <div>
 <img src="https://files.webhunt.cn/wechat.jpg" width="200" height="auto"/>
 <img src="https://files.webhunt.cn/ali.jpg" width="200" height="auto"/>
 <img src="https://files.webhunt.cn/qq.png" width="200" height="auto"/>
 </div>
 
-### 预览
+#### 预览
 <div>
 <img src="https://files.webhunt.cn/1.jpeg" width="200" height="auto"/>
 <img src="https://files.webhunt.cn/5.jpeg" width="200" height="auto"/>
@@ -25,7 +25,7 @@
 
 </div>
 
-### 媒体链接：
+#### 媒体链接：
 
 少数派：[我做了一个「疫情地图」小程序，但我希望大家「明天」就不需要它](https://mp.weixin.qq.com/s/FpTfD1uHYcaKGuggUGP0aA)   
 微信派：[月子中心里诞生出的疫情小程序，7天从0到1000万](https://mp.weixin.qq.com/s/t08bCstJzMOVgy2Gse3P6w)   
