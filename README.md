@@ -35,7 +35,6 @@
 雷锋网：[这个小程序可以查你家周围的疫情爆发点](https://mp.weixin.qq.com/s/nCP8VcsTToN7Dn-Mms8ETw)   
 南方都市报 • 南都广州:[它告诉你疫情有多远！这个4小时写出来的小程序为三千多万人预警](https://m.mp.oeeee.com/a/BAAFRD000020200225270122.html?layer=4&share=chat&isndappinstalled=0)   
 
-#### 志愿者 （遗漏请告知我添加）
+#### 志愿者 （采用的是发放勋章礼品的真实姓名，以此感谢这些志愿者，如有遗漏，告知我更新）
 重点技术支持：[@少数派](https://sspai.com/)   
 地区城市志愿者：   
-即将更新中
