@@ -4,7 +4,7 @@
 
 
 #### 作者
-[@俊瑶先生](https://weibo.com/232246784)   [少数派](https://sspai.com/)   
+[@俊瑶先生](https://weibo.com/232246784)   
 #### 技术栈
 
 > 框架：uniapp
@@ -35,9 +35,6 @@
 雷锋网：[这个小程序可以查你家周围的疫情爆发点](https://mp.weixin.qq.com/s/nCP8VcsTToN7Dn-Mms8ETw)   
 南方都市报 • 南都广州:[它告诉你疫情有多远！这个4小时写出来的小程序为三千多万人预警](https://m.mp.oeeee.com/a/BAAFRD000020200225270122.html?layer=4&share=chat&isndappinstalled=0)   
 
-#### 数据志愿者
-
-
-
-
-有遗漏麻烦告示我更新。
+#### 志愿者
+重点支持：[@少数派](https://sspai.com/)   
+地区城市志愿者：   
