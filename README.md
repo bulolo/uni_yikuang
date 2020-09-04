@@ -9,14 +9,14 @@
 
 > 框架：uniapp
 
-#### 二维码(微信、支付宝、QQ)
+#### 线上预览(微信、支付宝、QQ)
 <div>
 <img src="https://files.webhunt.cn/wechat.jpg" width="200" height="auto"/>
 <img src="https://files.webhunt.cn/ali.jpg" width="200" height="auto"/>
 <img src="https://files.webhunt.cn/qq.png" width="200" height="auto"/>
 </div>
 
-#### 预览
+#### 截图预览
 <div>
 <img src="https://files.webhunt.cn/1.jpeg" width="200" height="auto"/>
 <img src="https://files.webhunt.cn/5.jpeg" width="200" height="auto"/>
