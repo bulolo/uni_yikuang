@@ -1,20 +1,30 @@
 # 【疫况】小程序
 
-# 作者
+### 作者
 [@俊瑶先生](https://weibo.com/232246784)
 
-# 技术战
+### 技术战
 
 > 框架：uniapp
 
-# 预览
+### 二维码
 <div>
 <img src="https://files.webhunt.cn/wechat.jpg" width="200" height="auto"/>
 <img src="https://files.webhunt.cn/ali.jpg" width="200" height="auto"/>
 <img src="https://files.webhunt.cn/qq.png" width="200" height="auto"/>
 </div>
 
-# 媒体链接：
+### 预览
+<div>
+<img src="https://files.webhunt.cn/1.png" width="200" height="auto"/>
+<img src="https://files.webhunt.cn/2.jpg" width="200" height="auto"/>
+<img src="https://files.webhunt.cn/3.png" width="200" height="auto"/>
+<img src="https://files.webhunt.cn/4.jpeg" width="200" height="auto"/>
+<img src="https://files.webhunt.cn/5.jpeg" width="200" height="auto"/>
+</div>
+
+
+### 媒体链接：
 
 少数派：[我做了一个「疫情地图」小程序，但我希望大家「明天」就不需要它](https://mp.weixin.qq.com/s/FpTfD1uHYcaKGuggUGP0aA)   
 微信派：[月子中心里诞生出的疫情小程序，7天从0到1000万](https://mp.weixin.qq.com/s/t08bCstJzMOVgy2Gse3P6w)   
