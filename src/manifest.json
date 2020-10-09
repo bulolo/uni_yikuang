@@ -45,42 +45,36 @@
 			"sdkConfigs": {}
 		}
 	},
-	"quickapp": {
-		"mp-weixin": {
-			"appid": "wxc888b51893c07e7c",
-			"setting": {
-				"urlCheck": false
-			},
-			"permission": {
-				"scope.userLocation": {
-					"desc": "你的位置信息将用于小程序位置接口的效果展示"
-				}
-			},
-			"cloudfunctionRoot": "./cloudfunctions/",
-			"usingComponents": true,
-			"navigateToMiniProgramAppIdList": [
-				"wx8e66eba7ee5e1698",
-				"wxf1fdc416d4ced1b3",
-				"wxd0a74868c0254bbc",
-				"wxb036cafe2994d7d0"
-			]
+	"quickapp": { /* 快应用特有相关 */},
+	"mp-weixin": {
+		"appid": "wxc888b51893c07e7c",
+		"setting": {
+			"urlCheck": false
 		},
-		"mp-alipay": {
-			"usingComponents": true
+		"permission": {
+			"scope.userLocation": {
+				"desc": "你的位置信息将用于小程序位置接口的效果展示"
+			}
 		},
-		"mp-baidu": {
-			"usingComponents": true
+		"cloudfunctionRoot": "./cloudfunctions/",
+		"usingComponents": true
+	},
+	"mp-alipay": {
+		"usingComponents": true
+	},
+	"mp-baidu": {
+		"usingComponents": true
+	},
+	"mp-toutiao": {
+		"usingComponents": true
+	},
+	"mp-qq": {
+		"permission": {
+			"scope.userLocation": {
+				"desc": "你的位置信息将用于小程序位置接口的效果展示"
+			}
 		},
-		"mp-toutiao": {
-			"usingComponents": true
-		},
-		"mp-qq": {
-			"permission": {
-				"scope.userLocation": {
-					"desc": "你的位置信息将用于小程序位置接口的效果展示"
-				}
-			},
-			"usingComponents": true
-		}
+		"usingComponents": true
 	}
+
 }

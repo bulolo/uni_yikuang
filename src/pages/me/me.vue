@@ -219,8 +219,8 @@ export default {
     },
     async zmTap(){
       uni.navigateToMiniProgram({
-						appId: 'wxb036cafe2994d7d0',
-						path: `/portal/group-profile/group-profile?group_id=13104376024469214&invite_ticket=BgAAks2FLXLUJS-17-p9Ndvp6A&fromScene=bizArticle`,
+						appId: 'wx92ec331c3bd3c024',
+						path: `/pages/index/index`,
 						envVersion: 'release',
 						success(res) {
 							// 打开成功
